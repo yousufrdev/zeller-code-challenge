@@ -1,0 +1,10 @@
+[
+  {
+    "type": "AppleTvDeal",
+    "params": { "sku": "atv", "buy": 3, "pay": 2 }
+  },
+  {
+    "type": "IpadBulkDiscount",
+    "params": { "sku": "ipd", "minQty": 5, "discountPrice": 499.99 }
+  }
+]

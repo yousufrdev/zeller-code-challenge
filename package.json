@@ -4,10 +4,11 @@
   "description": "Zeller Computer Store Checkout System",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node src/index.ts",
+     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "yousuf rizvi",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^30.0.0",
