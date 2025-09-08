@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+
+# Tests
+coverage/
+
+# Environment
+.env
+.env.local
